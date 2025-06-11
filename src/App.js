@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Juan Díaz Prado Practica 04
+          Juan Díaz Prado Practica 03 Desafio 2
         </p>
         <a
           className="App-link"
